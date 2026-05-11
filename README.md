@@ -91,6 +91,3 @@ GitHub Repository
 https://github.com/Zafeer-Zia/Hospital-management-system
 
 
-Author
-FAST University — BCS-2G
-Spring 2026 — OOP Project
